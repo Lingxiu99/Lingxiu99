@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lingxiu LI</h1>
-<h3 align="center">A Cloud beginner in AWS and coding</h3>
+<h3 align="center">A Cloud beginner in AWS and programming</h3>
 
 - 🔭 I’m currently working on **Cloud Specialist learning path**
 
-- 🌱 I’m currently learning **Solutions Architect of AWS**
+- 🌱 I’m currently learning **Solutions Architect certification of AWS**
 
-- 👯 I’m looking to collaborate on **Python, Javascript and so on**
+- 👯 I’m looking to collaborate on **Python, Javascript, Start-up**
 
 - 🤝 I’m looking for help with **Coding and Programming**
 
